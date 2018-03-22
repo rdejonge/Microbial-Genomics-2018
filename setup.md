@@ -16,7 +16,12 @@ You will need a terminal program to access the remote machine. This is already a
 - Go to the [Putty download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 - Click on putty.exe link to download the install file
 - To use it, double-click on the download file
-- Follow the installation instructions, if any 
+- Follow the installation instructions, if any
+
+### Xming
+You will need a local X-server to view remote graphic content. We use the simple to use and easy to install program Xming 
+- Obtain Xming from here: https://sourceforge.net/projects/xming/
+- After download, install the program according to install instructions and run the Xming executable
 
 ### R
  - Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from [CRAN](http://cran.r-project.org/index.html)
