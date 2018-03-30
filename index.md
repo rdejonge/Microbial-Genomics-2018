@@ -28,6 +28,9 @@ The lessons of the first two days use the
 > 8.  Thursday, 12 April: Comparative genomics
 > 9.  Friday, 13 April: Exam
 
+Course documents, incl. outline and datasets will be made available here:
+https://drive.google.com/open?id=1_iTtzbKqk7j5uzMeN1R_lFgPGuF6KURl
+
 > ## Data
 >
 > In days 1-2 we will use data from a long term evolution experiment published in 2012: [Genomic analysis of a key innovation in an experimental Escherichia coli population by Blount ZD, Barrick JE, Davidson CJ, and Lenski RE. (doi: 10.1038/nature11514)](https://www.nature.com/articles/nature11514).
